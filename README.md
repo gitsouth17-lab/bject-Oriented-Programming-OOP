@@ -1,4 +1,4 @@
-# bject-Oriented Programming (OOP)
+# Object-Oriented Programming (OOP)
 
 This repository contains a Java-based console application developed to manage the operations of a Health Center. The system allows the registration and management of patients, families, health professionals, and medical services.
 
